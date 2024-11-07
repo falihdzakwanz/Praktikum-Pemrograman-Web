@@ -1,0 +1,14 @@
+# Node modules
+node_modules/
+
+# Log files
+*.log
+
+# Output folders
+dist/
+build/
+
+# Mengecualikan file dokumen dan PDF
+*.doc
+*.docx
+*.pdf
